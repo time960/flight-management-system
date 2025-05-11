@@ -22,11 +22,11 @@ The Flight Booking System is a C++ project designed to manage and facilitate the
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/sachinandan-05/flight-booking-system.git
+    git clone https://github.com/time960/flight-management-system.git
     ```
 2. **Navigate to the project directory**:
     ```sh
-    cd flight-booking-system
+    cd flight-management-system
     ```
 3. **Compile the project**:
     ```sh
@@ -110,8 +110,4 @@ The Flight Booking System is a C++ project designed to manage and facilitate the
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-
-For any questions or suggestions, please reach out to [sachinandan.priv05@gmail.com](mailto:sachinandan.priv05@gmail.com).
-
-
 
